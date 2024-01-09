@@ -1,0 +1,2 @@
+ca untuk file addmahasiswa.php,laporannasabah.php,dan mahasiswa.php copykan dalam folder akademik ya nanti replace aja 
+terus untuk file cetak.php dan cetak_s.php copykan dalam file ica yang di luar ya. coba liat dulu filenya pasti ada nanti replace aja
